@@ -12,7 +12,11 @@ You will need to print these as a pair, they simply slip on over the front of th
 
 ## Suggested print specifications
 
-
+- Print in PLA
+- 0.2mm layer height
+- 0.5mm extrution width
+- +/-15% infill should be plenty
+- 2-3 top/bottom layers
 
 ## Made in Sketchup Free
 
