@@ -1,6 +1,8 @@
 # Gummy-Corners
 3D printable corner spaces to make sure your gummy worm corners don't touch the case!
 
+![image](https://user-images.githubusercontent.com/8606354/169680910-f006a853-f8c7-4ea6-ae93-10ebbebd892b.png)
+
 ## Description
 As it so happens, Gummy worm mount keyboards like the Bakaneko often have issues with the front corners making contact with the case during the downstroke in some instances. This is due to the uneven stagger of the keys at the corners of the board. These 3D printes spacers are placed over the corners beneath the big O-Ring and give it the correct spacing.
 
