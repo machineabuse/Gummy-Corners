@@ -7,7 +7,7 @@ As it so happens, Gummy worm mount keyboards like the Bakaneko often have issues
 
 ![GummyGummy Corner Explanation-100](https://user-images.githubusercontent.com/8606354/171972096-f644a5fb-4bcf-4815-94c5-f52b63561796.jpg)
 
-Big thanks to zzcc for being a ~~guinea pig~~ willing volunteer to see if this design works (As well as for the photographs). His findings were that these will mute the corner switches slightly however they will achieve the stated goal of ensuring the corners are properly spaced to the case.
+Big thanks to zzcc for being a ~~guinea pig~~ willing volunteer to see if this design works. His findings were that these will mute the corner switches slightly however they will achieve the stated goal of ensuring the corners are properly spaced to the case.
 
 
 ## How to use these
@@ -33,4 +33,4 @@ You will need to print these as a pair, they simply slip on over the front of th
 
 ## Made in Sketchup Free
 
-For anyone who wants to base their work of this project/improve upon it I have included the SKP files. Kindly respect the open source licence and make available any derivitave works.
+For anyone who wants to base their work of this project/improve upon it I have included the SKP files. Kindly respect the open source licence and make available any derivatave works.
