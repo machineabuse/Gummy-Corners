@@ -5,6 +5,8 @@
 ## Description
 As it so happens, Gummy worm mount keyboards like the Bakaneko often have issues with the front corners making contact with the case during the downstroke in some instances. This is due to the uneven stagger of the keys at the corners of the board. These 3D printes spacers are placed over the corners beneath the big O-Ring and give it the correct spacing.
 
+![GummyGummy Corner Explanation-100](https://user-images.githubusercontent.com/8606354/171972096-f644a5fb-4bcf-4815-94c5-f52b63561796.jpg)
+
 Big thanks to zzcc for being a ~~guinea pig~~ willing volunteer to see if this design works (As well as for the photographs). His findings were that these will mute the corner switches slightly however they will achieve the stated goal of ensuring the corners are properly spaced to the case.
 
 
@@ -15,10 +17,11 @@ You will need to print these as a pair, they simply slip on over the front of th
 
 ## Print Items
 
-| File | Image |
-|------------|------------|
-| Side A | |
-| Side B | |
+| File | Image | Description
+|------------|------------|------------|
+| Side A | |Bottom left hand corner of ANSI, Bottom Right Corner of Tsangan| 
+| Side B | |Bottom right hand corner of ANSI, Bottom Left Corner of Tsangan|
+| ABPair | |Print both at the same time!|
 
 ## Suggested print specifications
 
