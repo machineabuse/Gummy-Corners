@@ -33,4 +33,4 @@ You will need to print these as a pair, they simply slip on over the front of th
 
 ## Made in Sketchup Free
 
-For anyone who wants to base their work of this project/improve upon it I have included the SKP files. Kindly respect the open source licence.
+For anyone who wants to base their work of this project/improve upon it I have included the SKP files. Kindly respect the open source licence and make available any derivitave works.
