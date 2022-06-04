@@ -19,12 +19,9 @@ You will need to print these as a pair, they simply slip on over the front of th
 
 | File | Image | Description
 |------------|------------|------------|
-| Side A | ![image](https://user-images.githubusercontent.com/8606354/171972165-5c6ebe7c-6b1a-4593-83f7-ad5922a1ba46.png)
-|Bottom left hand corner of ANSI, Bottom Right Corner of Tsangan| 
-| Side B | ![image](https://user-images.githubusercontent.com/8606354/171972166-1f91ae9f-d083-4bb2-b5ed-d22847a5948d.png)
-|Bottom right hand corner of ANSI, Bottom Left Corner of Tsangan|
-| ABPair | ![image](https://user-images.githubusercontent.com/8606354/171972170-6c5ddc23-b844-4d82-a1af-91b2d8b6b949.png)
-|Print both at the same time!|
+| Side A | ![image](https://user-images.githubusercontent.com/8606354/171972165-5c6ebe7c-6b1a-4593-83f7-ad5922a1ba46.png) |Bottom left hand corner of ANSI, Bottom Right Corner of Tsangan| 
+| Side B | ![image](https://user-images.githubusercontent.com/8606354/171972166-1f91ae9f-d083-4bb2-b5ed-d22847a5948d.png) |Bottom right hand corner of ANSI, Bottom Left Corner of Tsangan|
+| ABPair | ![image](https://user-images.githubusercontent.com/8606354/171972170-6c5ddc23-b844-4d82-a1af-91b2d8b6b949.png) |Print both at the same time!|
 
 ## Suggested print specifications
 
